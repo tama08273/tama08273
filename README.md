@@ -36,7 +36,7 @@ Practical ML design principles not written in textbooks.
 - Model complexity trade-offs  
 - Outlier removal misconceptions  
 
-👉 https://github.com/
+👉 https://github.com/tama08273/ml-design-principles/tree/master
 ---
 
 ## 🧪 Technical Stack
