@@ -61,5 +61,4 @@ Practical ML design principles not written in textbooks.
 
 ## 📫 Contact
 
-- Email: your-email@example.com  
-- LinkedIn: https://www.linkedin.com/in/your-profile
+- Email: hiro304.0808@gmail.com
