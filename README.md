@@ -36,8 +36,7 @@ Practical ML design principles not written in textbooks.
 - Model complexity trade-offs  
 - Outlier removal misconceptions  
 
-👉 https://github.com/（←ここにリポジトリURLを記載）
-
+👉 https://github.com/
 ---
 
 ## 🧪 Technical Stack
