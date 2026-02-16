@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Tama
 
-<!--
-**tama08273/tama08273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning × Security  
+Model Evaluation & Robustness Design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What I Focus On
+
+- Adversarial robustness in ML systems  
+- Evaluation design under class imbalance  
+- Generalization control & optimism bias mitigation (Nested CV)  
+- Threat-model-driven ML experimentation  
+
+---
+
+## 📌 Featured Projects
+
+### 🔐 detection_spam
+Robust spam detection under evasion & poisoning attacks.
+
+- Baseline → Hyperparameter tuning (Optuna)  
+- SHAP-based feature analysis  
+- Adversarial evasion simulation  
+- Data poisoning robustness evaluation  
+
+👉 https://github.com/tama08273/detection_spam
+
+---
+
+### 🧠 ML Design Notes
+Practical ML design principles not written in textbooks.
+
+- Imbalanced data threshold strategy  
+- Cross-validation optimism bias  
+- Model complexity trade-offs  
+- Outlier removal misconceptions  
+
+👉 https://github.com/（←ここにリポジトリURLを記載）
+
+---
+
+## 🧪 Technical Stack
+
+- Python  
+- scikit-learn  
+- Optuna  
+- SHAP  
+- Pandas / NumPy / Matplotlib  
+- Experimental design & statistical validation  
+
+---
+
+## 🎯 Current Interests
+
+- Robust ML system design  
+- ML threat modeling  
+- Security-oriented evaluation pipelines  
+
+---
+
+## 📫 Contact
+
+- Email: your-email@example.com  
+- LinkedIn: https://www.linkedin.com/in/your-profile
