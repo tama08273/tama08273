@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tama
 
-Machine Learning × Security  
+DataEngineering × Machine Learning × Security 
 Model Evaluation & Robustness Design  
 
 ---
